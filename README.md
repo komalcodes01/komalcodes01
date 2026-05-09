@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi, I'm Komal Sharma, a passionate and motivated Web Developer with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world digital solutions using technologies like HTML, CSS, JavaScript, PHP, MySQL, React, and Bootstrap.<br><br>I enjoy creating clean UI designs, developing dynamic web applications, and continuously exploring new technologies to improve my development skills. I believe in writing efficient code, solving real-world problems, and building projects that provide smooth and engaging user experiences.<br><br>🚀 Passionate about Web Development 💡 Interested in Full Stack Development & UI/UX 🏆 Competitive Programmer & Tech Enthusiast 📚 Continuous Learner & Problem Solver
 
+🚀 CartHub – E-commerce Website
+🩸 RakhtNest – Blood Donation Platform
+💼 Portfolio – Personal Developer Portfolio
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/komal-sharma-325099360) 
